@@ -1,5 +1,5 @@
 # Name: Muhammad Mithun
- Iam Proud to be a Muslim!
+ * Muslim!
 
 ## About
 
