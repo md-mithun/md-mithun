@@ -3,12 +3,12 @@
 
 ## About
 
-I am a student at KPI(Kushtia Polytechnic Institute), majoring in Computer Technology. I am passionate about programming and learning new technologies. I am also interested in electronics ,Physics.
+I am a student at KPI(Kushtia Polytechnic Institute), majoring in Computer Technology. I am passionate about programming and learning new technologies. I am also interested in Electronics ,Physics, History.
 
 ## Contact
 
 * Email: mmithunali2@gmail.com
-* WhatsApp: +8801781613987
+* WhatsApp: [+8801781613987](https://wa.me/qr/5ETEWXPY3J2GI1)
 
 ## Skills
 
@@ -24,7 +24,7 @@ I am a student at KPI(Kushtia Polytechnic Institute), majoring in Computer Techn
 
 ## Education
 
-*  Computer Technology at Kushtia Polytechnic Institute,Kushtia KhulnaBangladesh
+*  Computer Technology at Kushtia Polytechnic Institute,Kushtia Khulna Bangladesh
 
 ## Interests
 
